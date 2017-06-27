@@ -73,7 +73,7 @@ a:hover {
   text-align: center;
   width: 400px;
 }
-#apropos{
+#apropos, #defis{
   margin: 0 auto;
   width: 80%; 
   display:flex;
